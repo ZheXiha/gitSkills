@@ -1,3 +1,9 @@
 gitSkills
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+This is dev branch.
+This a main branch.
+Creating a new branch is quick and simple.
+>>>>>>> feature1
