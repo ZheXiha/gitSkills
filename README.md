@@ -7,3 +7,4 @@ This is dev branch.
 This a main branch.
 Creating a new branch is quick and simple.
 >>>>>>> feature1
+This is dev.
